@@ -5,7 +5,9 @@
 
 .time-cel {
 text-align: center;
-width: 200px;
+padding: 20px;
+width: 80px;
+background-color: aquamarine;
 border-color: black;
 
 }
