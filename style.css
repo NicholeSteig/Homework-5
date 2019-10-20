@@ -1,0 +1,11 @@
+.row {
+    justify-content: center;
+    width: 700px;
+}
+
+.time-cel {
+text-align: center;
+width: 200px;
+border-color: black;
+
+}
